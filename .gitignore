@@ -1,0 +1,6 @@
+#Ignore items from w64devkit
+bin/
+lib/
+libexec/
+x86_64-w64-mingw32/
+w64devkit.exe
